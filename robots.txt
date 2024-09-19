@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://recemeti.github.io/sitemap.html.gz
+Sitemap: https://recemeti.github.io/app/sitemap.html.gz
+Sitemap: https://recemeti.github.io/assets/sitemap.html.gz
+Sitemap: https://recemeti.github.io/css/sitemap.html.gz
+Sitemap: https://recemeti.github.io/data/sitemap.html.gz
+Sitemap: https://recemeti.github.io/includes/sitemap.html.gz
+Sitemap: https://recemeti.github.io/item/sitemap.html.gz
+Sitemap: https://recemeti.github.io/src/sitemap.html.gz
